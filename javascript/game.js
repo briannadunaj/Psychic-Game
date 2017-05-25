@@ -50,4 +50,5 @@ document.onkeyup = function(event){
       console.log('you chose ' + userGuess); 
       console.log("losses: " + losses);
       console.log("wins: " + wins);
+      
   }
